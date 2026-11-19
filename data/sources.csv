@@ -1,0 +1,6 @@
+station_id,provider,file,source_url
+2.11.0,NVE,2.11.0-Vannføring-time-v0.csv,https://sildre.nve.no/station/2.11.0
+2.265.0,NVE,2.265.0-Vannføring-time-v1.csv,https://sildre.nve.no/station/2.265.0
+2.11.0,NVE,2.11.0-Vannføring-dogn-v0.csv,https://sildre.nve.no/station/2.11.0
+1083,SMHI,smhi-opendata_2_1083_20261103_102644.csv,https://opendata-download-hydroobs.smhi.se/api/version/1.0/parameter/2/station/1083/period/corrected-archive/data.csv
+1223,SMHI,smhi-opendata_2_1223_20261103_102528.csv,https://opendata-download-hydroobs.smhi.se/api/version/1.0/parameter/2/station/1223/period/corrected-archive/data.csv

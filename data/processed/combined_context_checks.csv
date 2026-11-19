@@ -1,0 +1,9 @@
+component_ids,status,accepted,combined_mask_hours
+"27,28,29",assessed,True,192
+"36,37",assessed,True,78
+"71,72,73",assessed,True,58
+"96,97,98,99",assessed,False,181
+"103,105,106,107",assessed,True,117
+"134,135,136,137",assessed,True,93
+"193,194",assessed,True,30
+"265,266,267",assessed,True,34

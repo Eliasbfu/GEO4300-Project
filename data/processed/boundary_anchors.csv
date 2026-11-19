@@ -1,0 +1,4 @@
+timestamp_utc,discharge_m3_s,correction,quality_control,role
+1999-01-01 00:00:00+00:00,0.5589696,0,3,boundary_only_never_training_or_released_year
+1999-12-29 22:00:00+00:00,0.7078443,0,3,boundary_only_never_training_or_released_year
+2007-01-01 00:00:00+00:00,1.103876,0,3,boundary_only_never_training_or_released_year

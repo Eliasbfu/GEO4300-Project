@@ -1,0 +1,5 @@
+station_id,name,provider,longitude,latitude,distance_km,role,neighbour_rank,version,resolution_minutes,file,station_url
+2.11.0,Narsjø,NVE,11.478774609488951,62.36131871808427,0.000461445445426,target,0,0.0,60,raw/2.11.0-Vannføring-time-v0.csv,https://sildre.nve.no/station/2.11.0
+2.265.0,Unsetåa,NVE,11.083511406256545,61.94611181848996,50.52754928821586,donor,1,1.0,60,raw/2.265.0-Vannføring-time-v1.csv,https://sildre.nve.no/station/2.265.0
+1083,Lillglän,SMHI,12.1278,62.6386,45.39896796695072,donor,3,,15,raw/smhi-opendata_2_1083_20261103_102644.csv,https://opendata-download-hydroobs.smhi.se/api/version/1.0/parameter/2/station/1083/period/corrected-archive/data.csv
+1223,Tänndalen,SMHI,12.3812,62.5211,49.708613067167626,donor,4,,15,raw/smhi-opendata_2_1223_20261103_102528.csv,https://opendata-download-hydroobs.smhi.se/api/version/1.0/parameter/2/station/1223/period/corrected-archive/data.csv
